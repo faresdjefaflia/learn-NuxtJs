@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="w-1/2">
-      <img class="w-full rounded-r-md" src="../../../assets/img/Lorem-Ipsum-alternatives-768x492.png">
+      <img class="w-full rounded-r-md" src="~/assets/img/Lorem-Ipsum-alternatives-768x492.png">
     </div>
   </section>
 </template>
