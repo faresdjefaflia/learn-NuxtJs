@@ -1,6 +1,6 @@
 
 <template>
-  <header class=" bg-cyan-900">
+  <header class="bg-slate-900">
     <section class="py-4 m-auto flex justify-between text-white max-w-screen-xl">
       <div>
         <p class="font-black text-xl logo">

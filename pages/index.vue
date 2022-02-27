@@ -16,6 +16,11 @@ export default {
     Main01,
     Main02,
     Main03
+  },
+  head () {
+    return {
+      title: 'Home'
+    }
   }
 }
 </script>

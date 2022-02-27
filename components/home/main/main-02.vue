@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import ArticleMain from '~/components/home/menu/article-main02.vue'
+import ArticleMain from '~/components/home/other/article-main02.vue'
 export default {
   components: {
     ArticleMain

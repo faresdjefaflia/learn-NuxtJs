@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import Main01 from '../components/about/main-01.vue'
+import Main01 from '../components/login/login-comp.vue'
 export default {
   name: 'IndexPage',
   components: {
@@ -11,7 +11,7 @@ export default {
   },
   head () {
     return {
-      title: 'About'
+      title: 'Login'
     }
   }
 }

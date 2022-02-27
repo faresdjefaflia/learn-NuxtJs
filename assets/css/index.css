@@ -4,8 +4,8 @@
 img{
   pointer-events: none;
 }
-@media  (min-width: 2000px){
+/* @media  (min-width: 1880px){
   main{
     height: 100vh;
   }
-}
+} */
