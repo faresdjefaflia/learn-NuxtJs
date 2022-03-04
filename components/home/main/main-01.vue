@@ -11,7 +11,7 @@
         molestiae quas vel
       </p>
       <div>
-        <NuxtLink to="/docs" class="text-base rounded-lg px-7 py-2 inline-block mt-7 bg-slate-800 text-white transition-all hover:ml-2">
+        <NuxtLink to="/docs/post" class="text-base rounded-lg px-7 py-2 inline-block mt-7 bg-slate-800 text-white transition-all hover:ml-2">
           Document
         </NuxtLink>
       </div>
