@@ -1,4 +1,4 @@
-# prjnuxt
+# learnNuxt
 
 ## Build Setup
 

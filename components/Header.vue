@@ -1,7 +1,7 @@
 
 <template>
-  <header class="bg-slate-900">
-    <section class="py-4 m-auto flex justify-between text-white max-w-screen-xl">
+  <header class="sticky top-0 bg-slate-900 w-full z-20">
+    <section class="py-4 m-auto flex justify-between text-white px-6">
       <div>
         <p class="font-black text-xl logo">
           LOGO
